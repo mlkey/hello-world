@@ -38,7 +38,7 @@ $ sudo apt-get install git
 3. efgh
 2. ijkl  
    - mno
-     - pq
+     - pq
 3. xyz
 
 Task lists
@@ -47,12 +47,7 @@ Task lists
 - [ ] 222
 - [x] 333
 
-@github/mlkey
+@mlkey
 
 emoji::smile:
-
-afdjdgj[^3]
-
-
-[3]: wwwwwwwwww
 
