@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/-gemoji-black?logo=github)](https://github.com/github/gemoji)
+[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet)
+
 ## People
 emoji | code | emoji | code 
 :----:|------|:----:|------
